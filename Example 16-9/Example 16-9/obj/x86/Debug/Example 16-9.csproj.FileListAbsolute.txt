@@ -1,0 +1,20 @@
+C:\Users\M-H Computer\Desktop\Example 16-9\Example 16-9\bin\Debug\Example 16-9.exe
+C:\Users\M-H Computer\Desktop\Example 16-9\Example 16-9\bin\Debug\Example 16-9.pdb
+C:\Users\M-H Computer\Desktop\Example 16-9\Example 16-9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\M-H Computer\Desktop\Example 16-9\Example 16-9\obj\x86\Debug\Example_16_9.Form1.resources
+C:\Users\M-H Computer\Desktop\Example 16-9\Example 16-9\obj\x86\Debug\Example_16_9.Properties.Resources.resources
+C:\Users\M-H Computer\Desktop\Example 16-9\Example 16-9\obj\x86\Debug\Example_16_9.SmartButton.resources
+C:\Users\M-H Computer\Desktop\Example 16-9\Example 16-9\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\M-H Computer\Desktop\Example 16-9\Example 16-9\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\M-H Computer\Desktop\Example 16-9\Example 16-9\obj\x86\Debug\Example 16-9.exe
+C:\Users\M-H Computer\Desktop\Example 16-9\Example 16-9\obj\x86\Debug\Example 16-9.pdb
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part16\Example 16-9\Example 16-9\bin\Debug\Example 16-9.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part16\Example 16-9\Example 16-9\bin\Debug\Example 16-9.pdb
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part16\Example 16-9\Example 16-9\obj\x86\Debug\Example 16-9.csprojAssemblyReference.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part16\Example 16-9\Example 16-9\obj\x86\Debug\Example_16_9.Form1.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part16\Example 16-9\Example 16-9\obj\x86\Debug\Example_16_9.Properties.Resources.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part16\Example 16-9\Example 16-9\obj\x86\Debug\Example_16_9.SmartButton.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part16\Example 16-9\Example 16-9\obj\x86\Debug\Example 16-9.csproj.GenerateResource.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part16\Example 16-9\Example 16-9\obj\x86\Debug\Example 16-9.csproj.CoreCompileInputs.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part16\Example 16-9\Example 16-9\obj\x86\Debug\Example 16-9.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part16\Example 16-9\Example 16-9\obj\x86\Debug\Example 16-9.pdb
